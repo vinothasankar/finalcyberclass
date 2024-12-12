@@ -1,4 +1,4 @@
-Source code - cyberclass Presentation - finalcyberclass.pdf Model - random_forest_smote.pkl
+Source code - cyberclass Presentation - finalcyber.pdf Model - random_forest_smote.pkl
 
 Classifying Cybersecurity Incidents with Machine Learning Utilizing the comprehensive GUIDE dataset, our goal is to create a classification model that categorizes incidents as true positive (TP), benign positive (BP), or false positive (FP) based on historical evidence and customer responses. The model should be robust enough to support guided response systems in providing SOC analysts with precise, context-rich recommendations, ultimately improving the overall security posture of enterprise environments. Approach:
 
